@@ -1,0 +1,2 @@
+# edgapp
+flutter app project
